@@ -54,3 +54,8 @@ body {
 .fifth-container {
     background: #458FF6;
 }
+
+.pd {
+    padding-right: 0% !important;
+    padding-left: 8%;
+}
